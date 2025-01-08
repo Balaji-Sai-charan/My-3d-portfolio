@@ -435,10 +435,50 @@ export const projects = [
     image:
       "https://i.ibb.co/PYS7g2C/image.png",
     tags: ["Microsoft SQL Server", " MS Excel", "Tableau"],
-    category: "Data Analysis and Visualisation",
+    category: "Data Analysis and Visualization",
     github: "https://github.com/Balaji-Sai-charan/BikeStores-Dashboard",
-    //webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
+  {
+    id: 6,
+    title: "Exploratory Data Analysis on Retail Data",
+    description:
+      "Conducted exploratory analysis on an online retail dataset, including data cleaning, visualization, feature engineering, and deriving sales trends to support business decision-making.",
+    image:
+      "https://i.ibb.co/5j8LgzX/image.png",
+    tags: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Jupyter"],
+    category: "Data Analysis and Visualization",
+    github: "https://github.com/Balaji-Sai-charan/Exploratory-Data-Analysis-on-Retail-Data",
+  },
+  {
+    id: 7,
+    title: " Procurement Strategy for PI-EV National Electric Vehicle Competition (3rd Place, National Ranking)",
+    description:
+      "Developed a comprehensive procurement strategy for Team Mechismu, securing a 3rd place national ranking in the PI-EV event by optimizing cost-effective sourcing, inventory management, and logistics for enhanced team performance.",
+    image:
+      "https://i.ibb.co/dMNJMj2/image.png",
+    tags: ["MS Excel", "Tableau", "Slack"],
+    category: "Others",
+    github: "https://github.com/Balaji-Sai-charan/procurement-strategy",
+  },
+  {
+    id: 7,
+    title: "Exploria",
+    description:
+      "A fully mobile responsive and captivating online tour booking landing page that brings the joy of travel closer to users.",
+    image:
+      "https://i.ibb.co/zHwSP8z/image.png",
+    tags: [
+      "Javascript",
+      "Bootsrap",
+      "Media queries",
+      "CSS",
+      "HTML",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/exploria",
+    webapp: "https://balaji-sai-charan.github.io/exploria/",
+  },
+
   /*{
     id: 11,
     title: "DecisionHub",
