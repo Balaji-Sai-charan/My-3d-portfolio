@@ -390,6 +390,55 @@ export const projects = [
     github: "https://github.com/Balaji-Sai-charan/My-3d-portfolio",
     webapp: "https://balajisaicharanportfolio.netlify.app/",
   },
+  {
+    id: 3,
+    title: "Movie Ticket Booking",
+    description:
+      "This project is a comprehensive Movie Ticket Booking System with a separate frontend and backend designed to offer an intuitive and interactive booking experience for users.",
+    image:
+      "https://i.ibb.co/qkXzLDb/image.png",
+    tags: [
+      "React Js",
+      "Three Js",
+      "Node Js",
+      "Express Js",
+      "TMDB API",
+      "JWT TOKENS",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/frontend-of-ticketbooking",
+    webapp: "https://movie-booking-online.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "My 2d Portfolio",
+    description:
+      "This project is a personal portfolio website built to showcase skills, projects, and achievements. It is a full-stack implementation with a React.js frontend and a Node.js + Express backend, ensuring a dynamic and scalable platform for users to explore the portfolio content.",
+    image:
+      "https://i.ibb.co/WKCvMVC/image.png",
+    tags: [
+      "React Js",
+      "Three Js",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/frontend-of-portfolio",
+    webapp: "https://frontend-of-portfolio.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Interactive Data Analytics Dashboard Development in Bike Stores",
+    description:
+      "Engineered end-to-end data analytics solutions, transforming raw data into actionable insights through Microsoft SQL Server, MS Excel dashboards, and executive Tableau visualizations for strategic decision-making.",
+    image:
+      "https://i.ibb.co/PYS7g2C/image.png",
+    tags: ["Microsoft SQL Server", " MS Excel", "Tableau"],
+    category: "Data Analysis and Visualisation",
+    github: "https://github.com/Balaji-Sai-charan/BikeStores-Dashboard",
+    //webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  },
   /*{
     id: 11,
     title: "DecisionHub",
