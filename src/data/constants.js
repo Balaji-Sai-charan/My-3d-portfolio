@@ -351,6 +351,45 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 1,
+    title: "Learning manament system",
+    description:
+      "A comprehensive Learning Management System (LMS) built using the MERN stack. This application provides functionality similar to popular platforms like Udemy and Coursera, enabling users to manage, purchase, and access online courses.",
+    image:
+      "https://i.ibb.co/Jn4HLJk/lms.png",
+    tags: [
+      "React Js",
+      "Three Js",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "React Flow",
+      "MongoDB",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/LMS",
+    webapp: "https://github.com/Balaji-Sai-charan/LMS",
+  },
+  {
+    id: 2,
+    title: "My 3-d Portfolio",
+    description:
+      "A visually stunning 3D portfolio website showcasing projects, skills, education, and experience. Built to create an engaging and interactive platform for personal branding.",
+    image:
+      "https://i.ibb.co/8rG6Q82/image.png",
+    tags: [
+      "React Js",
+      "Three Js",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/My-3d-portfolio",
+    webapp: "https://balajisaicharanportfolio.netlify.app/",
+  },
   /*{
     id: 11,
     title: "DecisionHub",
@@ -452,7 +491,7 @@ export const projects = [
     image:
       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
+    category: "Others",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     webapp: "https://brain-tumor.netlify.app/",
     member: [
@@ -479,7 +518,7 @@ export const projects = [
     image:
       "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
+    category: "Data Analysis and Visualisation",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
@@ -492,7 +531,7 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
+    category: "Data Analysis and Visualisation",
     github: "https://github.com/rishavchanda/Job-finder-App",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
@@ -544,7 +583,7 @@ export const projects = [
     image:
       "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
+    category: "Data Analysis and Visualisation",
     github: "https://github.com/rishavchanda/Quiz-Earn",
     webapp: "https://github.com/rishavchanda/Quiz-Earn",
   },
@@ -557,7 +596,7 @@ export const projects = [
     image:
       "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
+    category: "Others",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },*/
