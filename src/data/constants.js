@@ -478,6 +478,57 @@ export const projects = [
     github: "https://github.com/Balaji-Sai-charan/exploria",
     webapp: "https://balaji-sai-charan.github.io/exploria/",
   },
+  {
+    id: 8,
+    title: "To-Do-List",
+    description:
+      "A simple and intuitive to-do app that allows users to create, manage, and prioritize tasks for enhanced productivity and organization.",
+    image:
+      "https://i.ibb.co/BCwCsnz/image.png",
+    tags: [
+      "Javascript",
+      "Bootsrap",
+      "Media queries",
+      "CSS",
+      "HTML",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/to-do-list",
+    webapp: "https://balaji-sai-charan.github.io/to-do-list/",
+  },
+  {
+    id: 9,
+    title: "Snake Game",
+    description:
+      "Console Snake Game in C++ This project is a classic implementation of the Snake game, built using C++ and designed to run in the console. The game is structured to simulate the movement of a snake that grows in length as it eats food and navigates around the screen. The objective is to achieve the highest score by consuming as much food as possible without colliding with the screen edges or the snake's own body.",
+    image:
+      "https://i.ibb.co/ByZV68x/image.png",
+    tags: [
+      "C++",
+    ],
+    category: "Others",
+    github: "https://github.com/Balaji-Sai-charan/snake-game",
+    //webapp: "https://balaji-sai-charan.github.io/to-do-list/",
+  },
+  {
+    id: 8,
+    title: "Tic-Tac-Toe",
+    description:
+      "A classic Tic-Tac-Toe game allowing two players to compete in a grid-based challenge with interactive features and win detection.",
+    image:
+      "https://i.ibb.co/fQ2M7bC/image.png",
+    tags: [
+      "Javascript",
+      "Bootsrap",
+      "Media queries",
+      "CSS",
+      "HTML",
+    ],
+    category: "web app",
+    github: "https://github.com/Balaji-Sai-charan/tic-tac-toe",
+    webapp: "https://balaji-sai-charan.github.io/tic-tac-toe/",
+  },
+
 
   /*{
     id: 11,
